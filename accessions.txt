@@ -1,0 +1,14 @@
+# Ocimum (Lamiaceae)
+NC_035143.1
+NC_043873.1
+MW348919.1
+# Aconitum (Ranunculaceae)
+KY006977
+NC_031422
+NC_031420
+# Poaceae
+NC_002762
+NC_001320
+NC_001666
+# Solanaceae
+NC_008096.2
